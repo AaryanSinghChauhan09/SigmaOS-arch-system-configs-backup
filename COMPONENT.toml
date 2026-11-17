@@ -3,12 +3,12 @@ name = "SigmaOS-arch-system-configs-backup"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-system-configs-backup component"
+description = "System configs backup for SigmaOS inspired by Arch Linux"
 upstream = []
 
 [contract]
 provides = ["component"]
-depends_on = []
+depends_on = ["SigmaOS-system"]
 
 [maturity]
 status = "Scaffold"
