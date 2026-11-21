@@ -1,4 +1,4 @@
-# SigmaOS-arch-system-configs-backup
+# SigmaOS-system-configs-backup
 
 System configs backup for SigmaOS inspired by Arch Linux
 

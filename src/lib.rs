@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: Apache-2.0
-//! SigmaOS-arch-system-configs-backup: arch system configs backup component model.
+//! SigmaOS-system-configs-backup: arch system configs backup component model.
 //!
 //! Real implementation: backups, events, validation, deterministic storage.
 //! Replaces the placeholder stub.

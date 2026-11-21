@@ -1,5 +1,5 @@
 [component]
-name = "SigmaOS-arch-system-configs-backup"
+name = "SigmaOS-system-configs-backup"
 tier = 2
 stability = "beta"
 language = "rust"

@@ -1,10 +1,10 @@
 [package]
-name = "SigmaOS-arch-system-configs-backup"
+name = "sigmaos-system-configs-backup"
 version = "0.1.0"
 edition = "2021"
 license = "Apache-2.0"
-description = "SigmaOS arch-system-configs-backup component"
+description = "SigmaOS system-configs-backup component"
 
 [lib]
-name = "arch_system_configs_backup"
+name = "sigmaos_system_configs_backup"
 path = "src/lib.rs"
